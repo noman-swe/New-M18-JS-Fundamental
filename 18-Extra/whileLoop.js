@@ -1,10 +1,10 @@
 // while Loop
-var rostGiven = 0;
-while(rostGiven < 7){
+var roastGiven = 0;
+while (roastGiven < 7) {
     // console.log(rostGiven);
     console.log('Rost den');
-    rostGiven++;
-    console.log(rostGiven);
+    roastGiven++;
+    console.log(roastGiven);
 
 }
 
